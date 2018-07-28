@@ -1,16 +1,44 @@
 #davidshryock{
 	text-align: center;
 	color: #fffff6;
+	font-size: 60px;
 }
 
 body{
 	background-color: #191918;
 }
 
-#navBar{
 
+nav{
 	text-align: center;
 	list-style: none;
+
+}
+
+nav ul{
+	margin-top: 75px;
+
+}
+
+nav ul li{
+	list-style-type: none;
+	float: left;
+	width: 200px;
+	text-align: center;
+	margin-left: 11%;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: #fffff6;
+	display: block;
+	font-size: 20px;
+}
+
+nav ul li a:hover{
+
+	border: 2px solid #fffff6;
+	font-size: 25px;
 }
 
 
