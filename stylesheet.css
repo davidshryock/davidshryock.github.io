@@ -6,18 +6,20 @@ specifically index.html
 #davidshryock{
 	text-align: center;
 	color: #191918;
-	font-size: 60px;
+	font-size: 70px;
+	position: relative;
+	font-style: 
 }
 
 body{
-	background-color: #fffff6;
+	background-color: #ffffff;
 
 }
 
 nav{
 	text-align: center;
 	list-style: none;
-
+	position: relative;
 }
 
 nav ul{
@@ -29,45 +31,74 @@ nav ul{
 nav ul li{
 	list-style-type: none;
 	float: left;
-	width: 200px;
+	width: 125px;
 	text-align: center;
-	margin-left: 15.5%;
+	margin-left: 18.5%;
+
 
 }
 
 nav ul li a{
 	text-decoration: none;
-	color: gray;
+	color: #595959;
 	display: block;
 	font-size: 25px;
-
 
 
 }
 
 nav ul li a:hover{
 	font-size: 28px;
-	text-decoration: underline;
+/*	text-decoration: underline;*/
+	border-bottom: 2px solid #191918;
 	color: #191918;
+	padding-bottom: 5px;
 }
 
 #aboutMe{
 	color: #191918;
-	margin: 10%;
+	margin-top: 20%;
+	margin-left: 10%;
+	margin-right: 10%;
 	text-align: justify;
+	position: relative;
+}
+
+.trebuchet{
+	font-family: "Trebuchet MS";
 }
 
 html{
-	border: 2px solid #191918;
-	margin: 5%;
-	font-family: "Trebuchet MS";
 
+
+}
+
+#headerImage{
+	width: 100%;
+	top: 0;
+	left: 0;
+	right: 0;
+	position: absolute;
+
+
+}
+
+#footerImage{
+
+	width: 100%;
+	top: 0;
+	left: 0;
+	right: 0;
+	position: absolute;
 }
 
 /*
 CSS for resumePage.html
 */
 #resume{
-	margin-top: 8%;
-	margin-left: 15%;
+	margin-top: 200px;
+	margin-bottom: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
