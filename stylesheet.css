@@ -16,6 +16,12 @@ body{
 
 }
 
+.pageWrapper{
+	position: absolute;
+	margin: 0px;
+	width: 100%;
+}
+
 nav{
 	text-align: center;
 	list-style: none;
