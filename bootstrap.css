@@ -1,0 +1,24 @@
+.jumbotron{
+
+}
+.welcome{
+
+	width: 100%;
+	background-color: #f3f3f3;
+}
+
+.welcome .jumbotron{
+
+	padding: 100px 60px;
+	margin: 0px;
+	background-image: url('croppedMountains.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.welcome .jumbotron h1{
+	text-align: center;
+	font-family: "Trebuchet MS";
+	font-size: 75px;
+}
