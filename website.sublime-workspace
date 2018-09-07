@@ -1,0 +1,610 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"card",
+				"card-text"
+			],
+			[
+				"col",
+				"collapse-work"
+			],
+			[
+				"cont",
+				"container-fluid"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"backgou",
+				"background-size\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bacgkrou",
+				"background-repeat\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"background",
+				"background-repeat\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"tet",
+				"text-align\tproperty"
+			],
+			[
+				"text",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"navba",
+				"navbar-brand"
+			],
+			[
+				"padding",
+				"padding\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"TEX",
+				"text-align\tproperty"
+			],
+			[
+				"bakc",
+				"background-color\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"cook",
+				"cookieInput"
+			],
+			[
+				"key",
+				"keyClick"
+			],
+			[
+				"zip",
+				"zipError"
+			],
+			[
+				"change",
+				"changeImage"
+			],
+			[
+				"MARG",
+				"margin-right"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pading",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"te",
+				"text-underline-position"
+			],
+			[
+				"padid",
+				"padding-right"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"chang",
+				"changeImageThree"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"calc",
+				"calculate"
+			],
+			[
+				"inc",
+				"increment"
+			],
+			[
+				"decre",
+				"decreases"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"dec",
+				"decrement"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"hdr",
+				"hdr_email"
+			],
+			[
+				"hd",
+				"hdr_email"
+			],
+			[
+				"hdr_",
+				"hdr_dep"
+			],
+			[
+				"em",
+				"hdr_email"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"c",
+				"css"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3943,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resume.html",
+			"settings":
+			{
+				"buffer_size": 12208,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 293,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/bootstrap.css",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/bootstrap.html",
+		"/C/Users/david/Documents/Sophomore Year/davidshryock.github.io/resumePage.html",
+		"/C/Users/david/Documents/Sophomore Year/davidshryock.github.io/stylesheet.css",
+		"/C/Users/david/Documents/Sophomore Year/testHTML.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/personalWebsite/product.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/personalWebsite/stylesheet.css",
+		"/C/Users/david/Documents/Sophomore Year/davidshryock.github.io/IMG_4100.JPG",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/personalWebsite/gallery.html",
+		"/C/Users/david/Documents/Sophomore Year/davidshryock.github.io/index.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab10/Renfrow1Shryock2Lab10.css",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab10/Renfrow1Shryock2Lab10.html",
+		"/C/Users/david/OneDrive/GitSite/index.html",
+		"/C/Users/david/Documents/Sophomore Year/Database/textPrettyPrints3.txt",
+		"/C/Users/david/Documents/Sophomore Year/3146 OS/Final Exam/server-tcp.cpp",
+		"/C/Users/david/Documents/Sophomore Year/3146 OS/Final Exam/client-tcp.cpp",
+		"/C/Users/david/Documents/commentSection/stylesheet.css",
+		"/C/Users/david/Documents/commentSection/comments.ink.php",
+		"/C/Users/david/Documents/commentSection/index.php",
+		"/C/Users/david/Documents/commentSection/sqlCode.sql",
+		"/C/Apache24/conf/httpd.conf",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/personalWebsite/form.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/personalWebsite/website.js",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/personalWebsite/index.html",
+		"/C/phpMyAdmin/phpMyAdmin-4.8.0.1-all-languages/config.inc.php",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab12/shryockBlair-Lab12.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab12/shryockBlair-Lab12-pt2.html",
+		"/C/Users/david/Desktop/dfsafdasdf.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/personalWebsite/jquery-3.3.1.js",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab10/dshryockRenfrow-lab10.js",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab10/shryockRenfrow-lab10.css",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab10/shryockRenfrow-lab10.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab10/shryockXiong-Lab10.js",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab10/shryockXiong-Lab10.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab10/shryockXiong-Lab10.css",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab10/shryockXiong-Lab9.js",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab10/shryockXiong-Lab9.css",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab10/shryockXiong-Lab9.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab8/dshryockXiong-Lab8.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab8/dshryockXiong-Lab8.js",
+		"/C/Users/david/Downloads/dshryockXiong-Lab8.css",
+		"/C/Users/david/Downloads/Lab8 (1).css",
+		"/C/Users/david/Downloads/Lab8_Solution.html",
+		"/C/Users/david/Downloads/Lab8_Solution.js",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Test/stylesheet.css",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Test/responsiveTestPage.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/tablesExtraCredit.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab6/ShryockMirchandani-Lab6.css",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab6/ShryockMirchandani-Lab6.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/MidtermOne/Midterm.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/MidtermOne/Midterm.css",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab5/ShryockGomez-Lab5.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/Lab5/ShryockGomez-Lab5.css",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/town_hall/styles/c07x_speaker.css",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/town_hall/styles/c09x_rollovers.css",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/town_hall/speakers/c09x_sampson.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/town_hall/css/lightbox.css",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/town_hall/speakers/c07x_sampson.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/town_hall/survey_data.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/town_hall/jquery-ui-1.11.2.custom/index.html",
+		"/C/Users/david/Documents/Sophomore Year/2300 Web App/Labs/town_hall/index.html",
+		"/C/Users/david/Downloads/ShryockPusateri-Lab2.html",
+		"/C/Users/david/Downloads/Lab2/speakers/toobin.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Show All",
+			"show",
+			";\n",
+			"fffff6",
+			"none",
+			"send",
+			"buffout",
+			"create",
+			"DirectoryIndex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2397,
+								2397
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resume.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3714,
+								3714
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 169.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
