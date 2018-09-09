@@ -267,7 +267,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3943,
+				"buffer_size": 3737,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -285,7 +285,7 @@
 			"file": "bootstrap.css",
 			"settings":
 			{
-				"buffer_size": 293,
+				"buffer_size": 362,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -429,7 +429,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -438,15 +438,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3943,
+						"buffer_size": 3737,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2397,
-								2397
+								2640,
+								2640
 							]
 						],
 						"settings":
@@ -457,7 +457,7 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 810.0,
+						"translation.y": 381.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -476,8 +476,8 @@
 						"selection":
 						[
 							[
-								3714,
-								3714
+								2488,
+								2488
 							]
 						],
 						"settings":
@@ -487,10 +487,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 169.0,
+						"translation.y": 156.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -499,15 +499,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 293,
+						"buffer_size": 362,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								292,
-								21
+								327,
+								327
 							]
 						],
 						"settings":
@@ -519,7 +519,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
